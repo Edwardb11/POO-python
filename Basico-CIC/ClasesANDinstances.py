@@ -1,8 +1,5 @@
 #python Orientado a objetos
-
-
 class empleado:
-    
     def __init__(self,apellido,nombre,pago): #Metodo especial del constructor
         self.apellido=apellido
         self.nombre=nombre
